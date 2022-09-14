@@ -19,3 +19,7 @@ You can install the development version of GenomicED from
 ``` r
 devtools::install_github("NChanard/GenomicED")
 ```
+
+## Documentation
+
+[GenomicED](https://nchanard.github.io/GenomicED/)
