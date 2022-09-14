@@ -1,0 +1,14 @@
+template:
+  bootstrap: 5
+  
+reference:
+- title: HiC
+  contents:
+  - HiC_ctrl.gnp
+  - HiC.gnp
+
+- title: Bed
+  contents:
+  - GRanges.gnr
+  - Tad.gnr
+  - Tss.gnr
