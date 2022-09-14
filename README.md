@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# GenomicED
+# GenomicED <a href='https://nchanard.github.io/GenomicED/'><img src='man/figures/logo.png' align="right" /></a>
 
 <!-- badges: start -->
 
