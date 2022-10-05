@@ -1,19 +1,20 @@
-Package: GenomicED
 Type: Package
-Title: Data for Genomic2DTK package (https://github.com/NChanard/Genomic2DTK)
+Package: GenomicED
+Title: Data for Genomic2DTK package
+    (https://github.com/NChanard/Genomic2DTK)
 Version: 0.1.0
 Author: Nicolas Chanard \<nicolas.chanard@univ-tlse3.fr>
 Maintainer: Nicolas Chanard \<nicolas.chanard@univ-tlse3.fr>
-Description: Data for Genomic2DTK package (https://github.com/NChanard/Genomic2DTK).
-URL:
-    https://nchanard.github.io/GenomicED/,
+Description: Data for Genomic2DTK package
+    (https://github.com/NChanard/Genomic2DTK).
+License: MIT + file LICENSE
+URL:https://nchanard.github.io/GenomicED/,
     https://github.com/NChanard/GenomicED
 Depends:
     R (>= 4.1)
 Imports:
     GenomicRanges,
     S4Vectors
-License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 LazyDataCompression: xz
