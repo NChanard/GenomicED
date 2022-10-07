@@ -7,8 +7,16 @@ reference:
   - HiC_ctrl.gnp
   - HiC.gnp
 
-- title: Bed
+- title: Anchors and Baits
   contents:
-  - GRanges.gnr
-  - Tad.gnr
-  - Tss.gnr
+  - anchors_Index.gnr
+  - baits_Index.gnr
+  - anchors_Peaks.gnr
+  - baits_Peaks.gnr
+
+- title: Domains
+  contents:
+  - domains.gnr
+  - domains_Border.gnr
+  - domains_Border_Bin.gnr
+  - domains_Border_Bin.gni
