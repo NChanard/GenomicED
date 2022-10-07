@@ -16,19 +16,34 @@
     <loc>/index.html</loc>
   </url>
   <url>
-    <loc>/reference/GRanges.gnr.html</loc>
-  </url>
-  <url>
     <loc>/reference/HiC.gnp.html</loc>
   </url>
   <url>
     <loc>/reference/HiC_ctrl.gnp.html</loc>
   </url>
   <url>
-    <loc>/reference/Tad.gnr.html</loc>
+    <loc>/reference/anchors_Index.gnr.html</loc>
   </url>
   <url>
-    <loc>/reference/Tss.gnr.html</loc>
+    <loc>/reference/anchors_Peaks.gnr.html</loc>
+  </url>
+  <url>
+    <loc>/reference/baits_Index.gnr.html</loc>
+  </url>
+  <url>
+    <loc>/reference/baits_Peaks.gnr.html</loc>
+  </url>
+  <url>
+    <loc>/reference/domains.gnr.html</loc>
+  </url>
+  <url>
+    <loc>/reference/domains_Border.gnr.html</loc>
+  </url>
+  <url>
+    <loc>/reference/domains_Border_Bin.gni.html</loc>
+  </url>
+  <url>
+    <loc>/reference/domains_Border_Bin.gnr.html</loc>
   </url>
   <url>
     <loc>/reference/index.html</loc>
