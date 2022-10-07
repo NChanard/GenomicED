@@ -11,7 +11,7 @@ An object of class GRanges.
 data(domains.gnr)
 }
 \description{
-Data from a CHip Seq experiment
+Data from a HiC Seq experiment
 }
 \examples{
 data(domains.gnr)
