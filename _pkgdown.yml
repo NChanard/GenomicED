@@ -6,6 +6,7 @@ reference:
   contents:
   - HiC_ctrl.gnp
   - HiC.gnp
+  - HiC_ctrl.cmx_lst
 
 - title: Anchors and Baits
   contents:
@@ -13,6 +14,7 @@ reference:
   - baits_Index.gnr
   - anchors_Peaks.gnr
   - baits_Peaks.gnr
+  - interactions.gni
 
 - title: Domains
   contents:
