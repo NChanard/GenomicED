@@ -19,6 +19,9 @@
     <loc>/reference/HiC.gnp.html</loc>
   </url>
   <url>
+    <loc>/reference/HiC_ctrl.cmx_lst.html</loc>
+  </url>
+  <url>
     <loc>/reference/HiC_ctrl.gnp.html</loc>
   </url>
   <url>
@@ -37,15 +40,21 @@
     <loc>/reference/domains.gnr.html</loc>
   </url>
   <url>
-    <loc>/reference/domains_Border.gnr.html</loc>
-  </url>
-  <url>
-    <loc>/reference/domains_Border_Bin.gni.html</loc>
-  </url>
-  <url>
-    <loc>/reference/domains_Border_Bin.gnr.html</loc>
-  </url>
-  <url>
     <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/interactions.gni.html</loc>
+  </url>
+  <url>
+    <loc>/reference/submatrixPF.mtx_lst.html</loc>
+  </url>
+  <url>
+    <loc>/reference/submatrixPF_Ctrl.mtx_lst.html</loc>
+  </url>
+  <url>
+    <loc>/reference/submatrixRF.mtx_lst.html</loc>
+  </url>
+  <url>
+    <loc>/reference/submatrixRF_Ctrl.mtx_lst.html</loc>
   </url>
 </urlset>
