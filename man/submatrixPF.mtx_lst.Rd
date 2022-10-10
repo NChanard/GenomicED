@@ -3,7 +3,7 @@
 \docType{data}
 \name{submatrixPF.mtx_lst}
 \alias{submatrixPF.mtx_lst}
-\title{Drosophila Melanogaster extracted pairs between Beaf-32 Peaks and TSS on 2L and 2R chromosomes.}
+\title{Drosophila Melanogaster extracted pairs between Beaf-32 Peaks and TSS on 2L and 2R chromosomes. Pairs extracted as points feature.}
 \format{
 A list of object of matrix.
 }
@@ -11,7 +11,7 @@ A list of object of matrix.
 data(submatrixPF.mtx_lst)
 }
 \description{
-Drosophila Melanogaster extracted pairs between Beaf-32 Peaks and TSS on 2L and 2R chromosomes.
+Drosophila Melanogaster extracted pairs between Beaf-32 Peaks and TSS on 2L and 2R chromosomes. Pairs extracted as points feature.
 }
 \examples{
 data(submatrixPF.mtx_lst)
