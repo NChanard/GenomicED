@@ -4,8 +4,6 @@
 # GenomicED <a href='https://nchanard.github.io/GenomicED/'><img src='man/figures/logo.png' align="right" /></a>
 
 <!-- badges: start -->
-
-[![R-CMD-check](https://github.com/NChanard/GenomicED/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/NChanard/GenomicED/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 GenomicED is a data package for
