@@ -17,6 +17,10 @@ reference:
 - title: Domains
   contents:
   - domains.gnr
-  - domains_Border.gnr
-  - domains_Border_Bin.gnr
-  - domains_Border_Bin.gni
+
+- title: Extracted submatrix
+  contents:
+  - submatrixPF_Ctrl.mtx_lst
+  - submatrixPF.mtx_lst
+  - submatrixRF_Ctrl.mtx_lst
+  - submatrixRF.mtx_lst  

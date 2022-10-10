@@ -1,4 +1,4 @@
-#' Drosophila Melanogaster extracted pairs between Beaf-32 Peaks and TSS on 2L and 2R chromosomes.
+#' Drosophila Melanogaster extracted pairs between Beaf-32 Peaks and TSS on 2L and 2R chromosomes. Pairs extracted as regions feature.
 #'
 #' @docType data
 #'
