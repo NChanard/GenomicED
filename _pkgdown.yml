@@ -7,6 +7,7 @@ reference:
   - HiC_ctrl.gnp
   - HiC.gnp
   - HiC_ctrl.cmx_lst
+  - HiC.cmx_lst
 
 - title: Anchors and Baits
   contents:
